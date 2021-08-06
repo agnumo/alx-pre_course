@@ -1,15 +1,8 @@
 <!-- Headings -->
-# Heading 1
-## Heading 2
-### Heading 3 
+
+### ALX pre-course
 
 <!-- Italics -->
-_This text_ is italics
+_alx pre-course_ is is my first repository ever for the ALX SE program!
 
-<!-- Strong -->
-**This text** is strong
 
-<!-- Horinzontal Rule -->
-
----
-___
